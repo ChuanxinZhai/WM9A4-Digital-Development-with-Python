@@ -1,3 +1,4 @@
+#This is the calculator 1, to calculate different value between a and b.
 
 if __name__ == '__main__':
     while True:
