@@ -4,7 +4,7 @@ Contribute to 10% of the module's mark. I hope you can check my code carefully, 
 
 ### Arthur
 
-Chuanxin Zhai (Chesson)
+Chuanxin Zhai u5546118 (Chesson)
 
 ### Project introduction
 
@@ -17,16 +17,6 @@ These exercises were designed to help me better understand the course content an
 Tools 1: VS Code (used for writing .html/.css file)
 
 Tools 2: Pycharm (used for writing .py file)
-
-## Contribution guidelines
-
-If you are interested in contributing to this project, please follow these steps: (by using **Git**)
-
-1. Fork this repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
 ## Contact
 
