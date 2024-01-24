@@ -20,7 +20,7 @@ Tools 2: Pycharm (used for writing .py file)
 
 Tools 3: Typora (used for writing .md file)
 
-## Contact
+### Contact
 
 If you have any questions or would like more information, please feel free to contact me through the following:
 
