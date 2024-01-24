@@ -1,6 +1,6 @@
 # WM9A4DDP-IMA
 
-Contribute to 10% of the module's mark. I hope you can check my code carefully, because I tried really hard to get a high score. Thanks for your patience!
+This repository contributes 10% to the module's mark. I hope you can check my code carefully, because I tried really hard to get a high score. Thanks for your patience!
 
 ### Author
 
