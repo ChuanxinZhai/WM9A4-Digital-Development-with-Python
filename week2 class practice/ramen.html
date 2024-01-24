@@ -1,0 +1,284 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warwick Ramen Stand</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        .header {
+            background-color: #ff6f61;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        #ramen-menu {
+            background-color: #ffe6cc;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        #opening-hours {
+            background-color: #00ff00;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+
+        .menu-item {
+            color: #ff4500;
+            font-weight: normal;
+            font-style: italic;
+        }
+
+        .footer {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 5px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+    <style>
+        @font-face {
+            font-family: 'monica-ext-font_YIBBBFG';
+            src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Light.otf');
+            font-weight: 300;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'monica-ext-font_YIBBBFG';
+            src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Regular.otf');
+            font-weight: 400;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'monica-ext-font_YIBBBFG';
+            src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Medium.otf');
+            font-weight: 500;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'monica-ext-font_YIBBBFG';
+            src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-SemiBold.otf');
+            font-weight: 600;
+            font-display: swap;
+        }
+    </style>
+    <link rel="stylesheet" href="chrome-extension://mhnlakgilnojmhinhkckjpncpbhabphi/content.css">
+    <style id="_goober">
+        .go1475592160 {
+            height: 0;
+        }
+
+        .go1671063245 {
+            height: auto;
+        }
+
+        .go1888806478 {
+            display: flex;
+            flex-wrap: wrap;
+            flex-grow: 1;
+        }
+
+        @media (min-width:600px) {
+            .go1888806478 {
+                flex-grow: initial;
+                min-width: 288px;
+            }
+        }
+
+        .go167266335 {
+            background-color: #313131;
+            font-size: 0.875rem;
+            line-height: 1.43;
+            letter-spacing: 0.01071em;
+            color: #fff;
+            align-items: center;
+            padding: 6px 16px;
+            border-radius: 4px;
+            box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+        }
+
+        .go3162094071 {
+            padding-left: 20px;
+        }
+
+        .go3844575157 {
+            background-color: #313131;
+        }
+
+        .go1725278324 {
+            background-color: #43a047;
+        }
+
+        .go3651055292 {
+            background-color: #d32f2f;
+        }
+
+        .go4215275574 {
+            background-color: #ff9800;
+        }
+
+        .go1930647212 {
+            background-color: #2196f3;
+        }
+
+        .go946087465 {
+            display: flex;
+            align-items: center;
+            padding: 8px 0;
+        }
+
+        .go703367398 {
+            display: flex;
+            align-items: center;
+            margin-left: auto;
+            padding-left: 16px;
+            margin-right: -8px;
+        }
+
+        .go3963613292 {
+            width: 100%;
+            position: relative;
+            transform: translateX(0);
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            min-width: 288px;
+        }
+
+        .go1141946668 {
+            box-sizing: border-box;
+            display: flex;
+            max-height: 100%;
+            position: fixed;
+            z-index: 1400;
+            height: auto;
+            width: auto;
+            transition: top 300ms ease 0ms, right 300ms ease 0ms, bottom 300ms ease 0ms, left 300ms ease 0ms, max-width 300ms ease 0ms;
+            pointer-events: none;
+            max-width: calc(100% - 40px);
+        }
+
+        .go1141946668 .notistack-CollapseWrapper {
+            padding: 6px 0px;
+            transition: padding 300ms ease 0ms;
+        }
+
+        @media (max-width:599.95px) {
+            .go1141946668 {
+                width: 100%;
+                max-width: calc(100% - 32px);
+            }
+        }
+
+        .go3868796639 .notistack-CollapseWrapper {
+            padding: 2px 0px;
+        }
+
+        .go3118922589 {
+            top: 14px;
+            flex-direction: column;
+        }
+
+        .go1453831412 {
+            bottom: 14px;
+            flex-direction: column-reverse;
+        }
+
+        .go4027089540 {
+            left: 20px;
+        }
+
+        @media (min-width:600px) {
+            .go4027089540 {
+                align-items: flex-start;
+            }
+        }
+
+        @media (max-width:599.95px) {
+            .go4027089540 {
+                left: 16px;
+            }
+        }
+
+        .go2989568495 {
+            right: 20px;
+        }
+
+        @media (min-width:600px) {
+            .go2989568495 {
+                align-items: flex-end;
+            }
+        }
+
+        @media (max-width:599.95px) {
+            .go2989568495 {
+                right: 16px;
+            }
+        }
+
+        .go4034260886 {
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        @media (min-width:600px) {
+            .go4034260886 {
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+
+<body monica-locale="zh_CN" monica-version="4.5.2" monica-id="ofpnmcalabcbjgholdjcjblkibolbppb">
+
+    <div class="header">
+
+        <h1 id="stand-name" style="font-size: 30px; text-shadow: 2px 2px 4px #2233ff;">Warwick Ramen Stand</h1>
+
+
+
+    </div>
+
+    <div class="content">
+        <a href="https://www.warwick.ac.uk" target="_blank">Warwick University</a>
+        <p>Discover the authentic taste of Japan!</p>
+        <div id="ramen-menu">
+            <h2>Our Menu</h2>
+
+
+            <p class="menu-item">Tonkotsu Ramen</p>
+            <img src="https://www.foodandwine.com/thmb/0AXGLeY6dYnY8sEXFqxBa8opDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tonkotsu-Ramen-FT-BLOG1122-8fe6c12d609a4fd4ab246bea3aae140e.jpg"
+                alt="Tonkotsu Ramen picture" width="20%">
+
+
+            <p class="menu-item">Shoyu Ramen</p>
+            <p class="menu-item">Miso Ramen</p>
+        </div>
+        <section id="opening-hours">
+            <h3>Opening Hours:</h3>
+            <p>Mon-Fri: 11am - 8pm</p>
+        </section>
+    </div>
+
+    <div class="footer">
+        <p>Visit us outside MEC!</p>
+    </div>
