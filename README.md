@@ -8,15 +8,17 @@ Chesson Zhai
 
 ### Project introduction
 
-This code repository contains all the class practice of the module-WM9A4DDP of the University of Warwick.
+This code repository contains the **class practice** and **notes** of the module-WM9A4DDP of the University of Warwick.
 
-These exercises were designed to help me better understand the course content and improve my programming skills.
+It helps me better understand the course content and improve my programming skills.
 
 ### Technology stack
 
 Tools 1: VS Code (used for writing .html/.css file)
 
 Tools 2: Pycharm (used for writing .py file)
+
+Tools 3: Typora (used for writing .md file)
 
 ## Contact
 
