@@ -46,7 +46,6 @@ def word_filter_counter(text, filter_words):
     """
                     
     
-
     # 使用 Counter 计数
     word_counts = Counter(word for word in words if word in filter_words_set)
 
