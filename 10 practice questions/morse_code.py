@@ -93,4 +93,3 @@ print(morse_translator("Morse Code"))
 # Test cases for non-alphabet characters:
 print(morse_translator("23"))  #number
 print(morse_translator("Chesson is the best!")) #symbol
-
