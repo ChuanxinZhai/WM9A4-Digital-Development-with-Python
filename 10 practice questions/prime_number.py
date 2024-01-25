@@ -58,7 +58,6 @@ def is_prime(number):
     
     return True
 
-
 print("Test basic cases:")
 print(is_prime(11))  # Expected output: True
 print(is_prime(4))  # Expected output: False
