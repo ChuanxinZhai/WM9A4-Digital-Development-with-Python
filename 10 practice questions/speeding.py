@@ -39,7 +39,6 @@ def speeding_ticket(speed, is_birthday):
 
 
 
-
 # Test cases
 print(speeding_ticket(60, False))  # Expected output: "No Ticket"
 print(speeding_ticket(75, False)) # Expected output: "Small Ticket"
