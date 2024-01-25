@@ -105,14 +105,14 @@ nav, .menu, .opening-hours {
 }
 
 
-/* 默认状态下的样式 */
+/* 导航栏 默认状态下的样式 */
 nav ul li a {
     color: black;
     text-decoration: none;
     transition: color 0.3s;
 }
 
-/* 悬停时的样式 */
+/* 导航栏 鼠标悬停时的样式 */
 nav ul li a::before {
     content: "";
     display: block;
