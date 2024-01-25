@@ -8,7 +8,7 @@ Chesson Zhai
 
 ### Project introduction
 
-This code repository contains the **class practice** and **notes** of the module-WM9A4DDP of the University of Warwick.
+This code repository contains the **practice (include both class practice and after-class practice)** and **notes** of the module-WM9A4DDP of the University of Warwick.
 
 It helps me better understand the course content and improve my programming skills.
 
