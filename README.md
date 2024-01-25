@@ -12,13 +12,15 @@ This code repository contains the **practice (include both class practice and af
 
 It helps me better understand the course content and improve my programming skills.
 
-### Technology stack
+### Tools and Software
 
 Tools 1: VS Code (used for writing .html/.css file)
 
 Tools 2: Pycharm (used for writing .py file)
 
 Tools 3: Typora (used for writing .md file)
+
+Tools 4: Acrobat DC and Edge browser (used for writing .pdf file)
 
 ### Contact
 
