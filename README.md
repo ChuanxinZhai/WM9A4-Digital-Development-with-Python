@@ -14,13 +14,17 @@ It helps me better understand the course content and improve my programming skil
 
 ### Tools and Software
 
-Tools 1: VS Code (used for writing .html/.css file)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+(used for writing .html/.css file)
 
-Tools 2: Pycharm (used for writing .py file)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+(used for writing .py file)
 
-Tools 3: Typora (used for writing .md file)
+![Typora](https://img.shields.io/badge/-Typora-333333?style=flat-square&logo=typora&logoColor=white)
+(used for writing .md file)
 
-Tools 4: Acrobat DC and Edge browser (used for writing .pdf file)
+![Adobe Acrobat DC](https://img.shields.io/badge/-Adobe%20Acrobat%20DC-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+(used for writing .pdf file)
 
 ### Contact
 
