@@ -19,12 +19,9 @@ Example Test Cases:
 4. is_leap_year(2019) should return 'False'.
 """
 
-
-
 def is_leap_year(year):
     # Your code goes here
     # Implement the leap year check logic
-
 
     # Solution 1
     if year % 4 == 0:
@@ -46,8 +43,6 @@ def is_leap_year(year):
     #         return True
     # else:
     #     return False
-
-
 
 
 
