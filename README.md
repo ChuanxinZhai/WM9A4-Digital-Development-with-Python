@@ -22,11 +22,9 @@ It helps me better understand the course content and improve my programming skil
 
 ### Tools and Software
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-(used for writing .html/.css file)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)    ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+(used for writing .html/.css/.py file)
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-(used for writing .py file)
 
 ![Typora](https://img.shields.io/badge/-Typora-333333?style=flat-square&logo=typora&logoColor=white)
 (used for writing .md file)
