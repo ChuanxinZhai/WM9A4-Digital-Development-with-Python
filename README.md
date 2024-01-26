@@ -1,6 +1,12 @@
 # WM9A4DDP-IMA
 
-This repository contributes 10% to the module's mark. I hope you can check my code carefully, because I tried really hard to get a high score. Thanks for your patience!
+This repository contributes 10% to the module's mark.
+
+##### For teacher:
+I hope you can check my code carefully, because I tried really hard to get a high score. Thanks for your patience!
+
+For classmates:
+It is only a demonstration for you to reference, so please do not copy my codes directly. Add your personal thought!
 
 ### Author
 
@@ -12,7 +18,7 @@ This code repository contains the **practice (include both class practice and af
 
 It helps me better understand the course content and improve my programming skills.
 
-(It is only a demonstration so please do not copy my codes directly. Add your personal thought!)
+
 
 ### Tools and Software
 
@@ -26,7 +32,7 @@ It helps me better understand the course content and improve my programming skil
 (used for writing .md file)
 
 ![Adobe Acrobat DC](https://img.shields.io/badge/-Adobe%20Acrobat%20DC-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
-(used for writing .pdf file)
+(used for editing .pdf file)
 
 ### Contact
 
