@@ -12,6 +12,8 @@ This code repository contains the **practice (include both class practice and af
 
 It helps me better understand the course content and improve my programming skills.
 
+(It is only a demonstration so please do not copy my codes directly. Add your personal thought!)
+
 ### Tools and Software
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
