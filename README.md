@@ -2,10 +2,10 @@
 
 This repository contributes 10% to the module's mark.
 
-##### For teacher:
-I hope you can check my code carefully, because I tried really hard to get a high score. Thanks for your patience!
+#### For teacher:
+I hope you can check my code carefully, because I tried really hard to maintain my repository. I really want to get a high score in this module. Thanks for your patience!
 
-For classmates:
+#### For classmates:
 It is only a demonstration for you to reference, so please do not copy my codes directly. Add your personal thought!
 
 ### Author
