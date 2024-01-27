@@ -52,6 +52,6 @@ print(fibonacci_sequence(10))  # Expected output: [0, 1, 1, 2, 3, 5, 8]
 print(fibonacci_sequence(1))  # Expected output: [0, 1, 1]
 print(fibonacci_sequence(0))  # Expected output: [0]
 print(fibonacci_sequence(-5))  # Expected: Empty list or error message
-
+# test float numbers
 print(fibonacci_sequence(-1.5))
 print(fibonacci_sequence(5.5))
