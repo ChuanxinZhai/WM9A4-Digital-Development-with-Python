@@ -18,6 +18,21 @@ This code repository contains the **practice (include both class practice and af
 
 It helps me better understand the course content and improve my programming skills.
 
+### File details
+
+Union Jack Socks ----------in class practice html ＆ css (in week 2 session 2)
+
+Ramen_homework ------------after class homework, css and html practice (in week 2 session 2)
+
+Flexbox Froggy ------------after class homework, a game for learning CSS (in week 2 session 2)
+
+HackerRank ----------------a website used for learning python skills, (continue practice)
+
+10 practice questions -----sample python problems practice for the on class test (in week 4 session 1)
+
+
+
+
 
 
 ### Tools and Software
