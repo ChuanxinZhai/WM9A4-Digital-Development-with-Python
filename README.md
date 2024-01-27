@@ -22,7 +22,7 @@ It helps me better understand the course content and improve my programming skil
 
 Union Jack Socks ----------in class practice html ＆ css (in week 2 session 2)
 
-Ramen_homework ------------after class homework, css and html practice (in week 2 session 2)
+Ramen_homework --------after class homework, css and html practice (in week 2 session 2)
 
 Flexbox Froggy ------------after class homework, a game for learning CSS (in week 2 session 2)
 
