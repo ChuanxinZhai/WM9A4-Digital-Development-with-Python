@@ -1,1 +1,11 @@
 /* Combine order with align-self to help the frogs to their destinations. */
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+  order: 2;
+  align-self: flex-end;
+}
