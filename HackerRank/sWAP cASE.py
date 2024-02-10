@@ -1,3 +1,4 @@
+#swap upper/lower
 def swap_case(s):
     swapped = ""
     for char in s:
