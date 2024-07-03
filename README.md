@@ -52,8 +52,4 @@ HackerRank ----------------a website used for learning python skills, (continue 
 ![Adobe Acrobat DC](https://img.shields.io/badge/-Adobe%20Acrobat%20DC-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 (used for editing .pdf file)
 
-### Contact
 
-If you have any questions or would like more information, please feel free to contact me through the following:
-
-- Email: Chuanxin.Zhai@warwick.ac.uk
