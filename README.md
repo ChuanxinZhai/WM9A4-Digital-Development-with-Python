@@ -5,12 +5,6 @@ This repository contributes 10% to the module's mark.
 2024.2.23 new update:
 Gain 90% marks
 
-#### For teacher:
-I hope you can check my code carefully, because I tried really hard to maintain my repository. I really want to get a high score in this module. Thanks for your patience!
-
-#### For classmates:
-It is only a demonstration for you to reference, so please do not copy my codes directly. Add your personal thought!
-
 ### Author
 
 Chesson Zhai
