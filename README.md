@@ -3,7 +3,7 @@
 This repository contributes 10% to the module's mark.
 
 2024.2.23 new update:
-Gain 90% marks
+Gain 90/100 marks
 
 ### Author
 
